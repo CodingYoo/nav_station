@@ -481,19 +481,11 @@ export const mockData = {
       ]
     },
     {
-      "id": "category-1753770043904",
+      "id": "category-1753770297295",
       "icon": "💻",
-      "name": "私有站点",
+      "name": "个人站点",
       "order": 0,
-      "sites": [
-        {
-          "id": "site-1753770098008",
-          "name": "个人博客",
-          "url": "https://www.lph.ink",
-          "description": "",
-          "icon": "/sitelogo/www.lph.ink.ico"
-        }
-      ]
+      "sites": []
     }
   ],
   "title": "多多导航"
