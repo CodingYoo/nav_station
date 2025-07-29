@@ -479,8 +479,22 @@ export const mockData = {
           "icon": "/sitelogo/www.feishu.cn.ico"
         }
       ]
+    },
+    {
+      "id": "category-1753770043904",
+      "icon": "💻",
+      "name": "私有站点",
+      "order": 0,
+      "sites": [
+        {
+          "id": "site-1753770098008",
+          "name": "个人博客",
+          "url": "https://www.lph.ink",
+          "description": "",
+          "icon": "/sitelogo/www.lph.ink.ico"
+        }
+      ]
     }
   ],
-  "title": "多多导航",
-  "_fileSha": "fa76b0cb6370a570d69ded0400e18cf51d5b1886"
+  "title": "多多导航"
 }
