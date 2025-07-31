@@ -33,6 +33,13 @@ export const mockData = {
           "url": "https://github.com/CodingYoo",
           "description": "代码托管平台",
           "icon": "/sitelogo/github.com.ico"
+        },
+        {
+          "id": "site-1753922989006",
+          "name": "意林",
+          "url": "https://www.yilinzazhi.com/",
+          "description": "",
+          "icon": "/sitelogo/www.yilinzazhi.com.ico"
         }
       ]
     },
